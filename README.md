@@ -28,6 +28,8 @@ This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_
 
 ## Installation Guide
 
+To install the programs to run the program, you have to do the following or you can open 'crypto_arbitrage.ipynb' in github and read the file there.
+
 Install Anaconda and Python. </br>
 
 Git clone the repo and run it, pursuant to the following clone address
@@ -37,3 +39,13 @@ git clone https://github.com/JeffSmith-ok/Module_3_Challenge.git
 cd Module_3_challenge
 
 In the terminal type 'Jupyter Lab'
+
+---
+
+## Usage
+
+The following images show the notebook read in Juypter Lab and in Github.
+
+## ![Screenshot of Jupyter_Lab with notebook open](images/Jupyter_Lab.jpg)
+
+## ![Screenshot of Github with notebook open](images/Github.jpeg)

@@ -2,7 +2,7 @@
 
 You can read this and/or you can open the crypto_arbitrage.ipynb and this will all be explained to you there.
 
-I am an analyst at a high-tech investment firm. The vice president of my department is considering arbitrage opportunities in the Bitcoin and other cyptocurrencies. Due to the fact that bitcoin trades on markets across the globe, we may be able to capitalize on simultaneous price dislocations through the power of Pandas.
+I am considering arbitrage opportunities in the Bitcoin and other cyptocurrencies. Due to the fact that bitcoin trades on markets across the globe, we may be able to capitalize on simultaneous price dislocations through the power of Pandas.
 
 I will sort through historical data for Bitcoin on two exchanges: Bitstamp and Coinbase. In this project, I will apply the three phases of financial analysis to determine if any arbitrage opportunties exist.
 

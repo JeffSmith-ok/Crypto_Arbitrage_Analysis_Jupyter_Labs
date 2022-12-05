@@ -22,7 +22,7 @@ Thirdly, I will analyze the data, which will focus on the closing price, and I w
 
 ## Technologies
 
-This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter Notebook and I created it in a development environment running Python 3.7.13.
+This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter Notebooks and I created it in a development environment running Python 3.7.13.
 
 ---
 

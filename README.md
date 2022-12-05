@@ -62,7 +62,7 @@ My contact information is:
 
 Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
-Personal email: jsmith@lexsmith.finance
+Personal email: jsmith@lexsmith.finance </br>
 Phone: 332 238 5209
 
 ---

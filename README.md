@@ -1,10 +1,8 @@
 # Crypto Arbitrage
 
-## Third Challenge Project at Columbia Engineering Fintech Program on Crypto Arbitrage
-
 You can read this and/or you can open the crypto_arbitrage.ipynb and this will all be explained to you there.
 
-In this third challenge, I am playing the role of an analyst at a high-tech investment firm. The vice president of my department is considering arbitrage opportunities in the Bitcoin and other cyptocurrencies. Due to the fact that bitcoin trades on markets across the globe, we may be able to capitalize on simultaneous price dislocations through the power of Pandas.
+I am an analyst at a high-tech investment firm. The vice president of my department is considering arbitrage opportunities in the Bitcoin and other cyptocurrencies. Due to the fact that bitcoin trades on markets across the globe, we may be able to capitalize on simultaneous price dislocations through the power of Pandas.
 
 I will sort through historical data for Bitcoin on two exchanges: Bitstamp and Coinbase. In this project, I will apply the three phases of financial analysis to determine if any arbitrage opportunties exist.
 
@@ -26,7 +24,7 @@ Thirdly, I will analyze the data, which will focus on the closing price, and I w
 
 ## Technologies
 
-This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_Lab and I created it in a development environment running Python 3.7.13.
+This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter Notebook and I created it in a development environment running Python 3.7.13.
 
 ---
 
@@ -64,7 +62,7 @@ My contact information is:
 
 Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
-Personal email: jmstranslate@gmail.com </br>
+Personal email: jsmith@lexsmith.finance
 Phone: 332 238 5209
 
 ---

@@ -54,8 +54,6 @@ The following images show the notebook read in Juypter Lab and in Github under c
 
 ## Contributors
 
-This is the third of the individual learning challenges.
-
 My contact information is:
 
 Name: Jeffrey M. Smith </br>

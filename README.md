@@ -28,7 +28,7 @@ This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter 
 
 ## Installation Guide
 
-To install the programs to run the program, you have to do the following or you can open 'crypto_arbitrage.ipynb' in github and read the file there.
+You can open 'crypto_arbitrage.ipynb' in github and read the file there.
 
 Install Anaconda and Python. </br>
 

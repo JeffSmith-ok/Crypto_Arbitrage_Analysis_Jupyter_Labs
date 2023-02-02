@@ -32,13 +32,6 @@ To install the programs to run the program, you have to do the following or you 
 
 Install Anaconda and Python. </br>
 
-Git clone the repo and run it, pursuant to the following clone address
-
-git clone https://github.com/JeffSmith-ok/Module_3_Challenge.git
-
-cd Module_3_challenge
-
-In the terminal type 'Jupyter Lab'
 
 ---
 
